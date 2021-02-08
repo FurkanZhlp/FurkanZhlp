@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, i am Furkan. 👋
+- 🔭 I’m currently working on MineWeb
+- 📫 How to reach me: Grêen#1370 (Discord)
+
+<img align="left" alt="FurkanZhlp's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FurkanZhlp&show_icons=true&theme=dark&count_private=true" />
 
 <!--
 **FurkanZhlp/FurkanZhlp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
