@@ -40,7 +40,6 @@
 </p>
 
 ### Something more... 👋
-- 🔭 I’m currently working on MineWeb
 - 📫 How to reach me: Grêen#1370 (Discord)
 
 <img align="center" alt="FurkanZhlp's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FurkanZhlp&show_icons=true&theme=dark&count_private=true" />
